@@ -18,7 +18,6 @@
 - [Armazenamento de Dados](#armazenamento-de-dados)
 - [Contribuição](#contribuição)
 - [Autor](#autor)
-- [Licença](#licença)
 
 ---
 
