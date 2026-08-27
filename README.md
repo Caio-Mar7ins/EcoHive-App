@@ -229,8 +229,8 @@ Este projeto foi desenvolvido para fins acadêmicos. Sugestões e melhorias são
 **Caio Martins**
 Estudante de Ciência da Computação — UNIP
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- GitHub: Caio-Mar7ins [https://github.com/Caio-Mar7ins]
+- LinkedIn: Caio Martins [https://www.linkedin.com/in/caio-martins-fernandes/]
 
 ---
 
