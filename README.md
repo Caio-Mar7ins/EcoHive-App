@@ -234,10 +234,4 @@ Estudante de Ciência da Computação — UNIP
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 *Desenvolvido como projeto acadêmico — UNIP, 2025.*
